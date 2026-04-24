@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "co.median.android.jbemxw",
+    "sha256_cert_fingerprints": ["41:73:C6:60:5C:88:81:79:03:0A:79:61:CC:F3:9F:8B:2A:42:C8:B9:0D:37:6B:0C:6D:3F:C1:C6:F0:37:D5:F1"]
+  }
+}]
